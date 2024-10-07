@@ -1,6 +1,8 @@
 # Red-Black Tree Data Structure
 Take a look at my Red-Black Tree Data Structure project in C++, featuring efficient operations like insertion, deletion, search, and more, while maintaining balance! 🌳
 
+![Screen Shot](IMG_0832.jpeg)
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Project Overview](#project-overview)
