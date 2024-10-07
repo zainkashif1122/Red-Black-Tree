@@ -76,7 +76,7 @@ To run the **Red-Black Tree Data Structure**, ensure you have a C++ compiler ins
 ## Live Preview of the Recording
 Experience a real-time demonstration of the Red-Black Tree operations, showcasing insertion, deletion, and traversal functionalities in action!
 
-[Screen Recording](screenRecording)
+[Screen Recording](screenRecording.mp4)
 
 > **Note:** The quality of these screen recordings has been reduced to comply with GitHub's 25MB file size limit.
 
