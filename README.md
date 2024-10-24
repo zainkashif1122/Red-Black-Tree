@@ -78,7 +78,7 @@ To run the **Red-Black Tree Data Structure**, ensure you have a C++ compiler ins
 ## Live Preview of the Recording
 Experience a real-time demonstration of the Red-Black Tree operations, showcasing insertion, deletion, and traversal functionalities in action!
 
-[Screen Recording](screenRecording.mp4)
+[`Screen Recording`](screenRecording.mp4)
 
 > **Note:** The quality of these screen recordings has been reduced to comply with GitHub's 25MB file size limit.
 
@@ -86,16 +86,16 @@ Experience a real-time demonstration of the Red-Black Tree operations, showcasin
 
 Here’s a breakdown of the files included in the project:
 
-- [Main.cpp](Main.cpp)  
+- [`Main.cpp`](Main.cpp)  
   Main file where program execution begins. It interacts with the user to insert, delete, search, and display Red-Black Tree elements.
 
-- [MyRBT.h](MyRBT.h)  
+- [`MyRBT.h`](MyRBT.h)  
   Header file containing the implementation of the Red-Black Tree class, including all major operations like insertion, deletion, and balance maintenance.
 
-- [RBT.h](RBT.h)  
+- [`RBT.h`](RBT.h)  
   Additional helper functions and classes related to Red-Black Tree functionality.
 
-- [Node.h](Node.h)  
+- [`Node.h`](Node.h)  
   Defines the structure of a node in the Red-Black Tree, including properties like color (red/black), pointers to parent and child nodes, and data.
 
 ## Technologies Used
